@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuLinearViewHorizontal"
+        android:title="Linear Horizontal" />
+
+    <item
+        android:id="@+id/menuLinearViewVertical"
+        android:title="Linear Vertical" />
+
+    <item
+        android:id="@+id/menuGrid"
+        android:title="Grid View" />
+
+    <item
+        android:id="@+id/menuStaggeredHorizontal"
+        android:title="Staggered Horizontal" />
+
+    <item
+        android:id="@+id/menuStaggeredVertical"
+        android:title="Staggered Vertical" />
+</menu>
